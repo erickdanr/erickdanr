@@ -3,5 +3,5 @@
 Eu sou <strong> Erick </strong>, <strong>Estou começando nessa área agora, tenho muita facilidade de aprender as coisas e entender.</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Javascript e html</strong> 
-- 💬 Pergunte-me sobre: <strong> jogar em geral, assistir, dormir. etc</strong>
+- 💬 Pergunte-me sobre: <strong> como jogar bem com mouse ruim etc</strong>
 - 📣 Nós podemos falar em: <strong>ingles, portugês e espanhol</strong>
